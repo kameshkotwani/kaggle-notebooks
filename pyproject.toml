@@ -1,0 +1,15 @@
+[project]
+name = "kaggle-notebooks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "catboost>=1.2.8",
+    "jupyter>=1.1.1",
+    "kaggle>=1.7.4.2",
+    "kagglehub>=0.3.11",
+    "missingno>=0.5.2",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+]
